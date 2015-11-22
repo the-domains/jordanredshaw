@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://instagram.com/p/-Zd2zhicEk/?taken-by=jordanredshaw'
 inLanguage: null
 starred: false
 keywords: []
 description: returning to mountain biking was a great decision
-datePublished: '2015-11-22T23:00:54.823Z'
-dateModified: '2015-11-22T23:00:52.950Z'
+datePublished: '2015-11-22T23:06:49.494Z'
+dateModified: '2015-11-22T23:06:45.939Z'
 author:
   - name: jordanredshaw
     url: 'https://www.instagram.com/jordanredshaw'
@@ -32,6 +31,7 @@ publisher:
   domain: instagram.com
   url: 'https://www.instagram.com'
   favicon: 'https://instagramstatic-a.akamaihd.net/bluebar/5bb6552/images/ico/favicon.ico'
+url: too-many-years-away-from-two-wheels/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
