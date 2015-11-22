@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://instagram.com/p/-Zd2zhicEk/?taken-by=jordanredshaw'
 inLanguage: null
 starred: false
 keywords: []
-description: Returning to mountain biking has been a great decision
-datePublished: '2015-11-22T22:54:45.364Z'
-dateModified: '2015-11-22T22:54:40.476Z'
+description: returning to mountain biking was a great decision
+datePublished: '2015-11-22T23:00:54.823Z'
+dateModified: '2015-11-22T23:00:52.950Z'
 author:
   - name: jordanredshaw
     url: 'https://www.instagram.com/jordanredshaw'
