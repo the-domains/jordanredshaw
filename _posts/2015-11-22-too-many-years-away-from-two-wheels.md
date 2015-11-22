@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: returning to mountain biking was a great decision
-datePublished: '2015-11-22T23:06:49.494Z'
-dateModified: '2015-11-22T23:06:45.939Z'
+datePublished: '2015-11-22T23:08:34.337Z'
+dateModified: '2015-11-22T23:08:29.330Z'
 author:
   - name: jordanredshaw
     url: 'https://www.instagram.com/jordanredshaw'
