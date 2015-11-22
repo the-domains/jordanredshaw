@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jordan Redshaw]]></title>
         <description><![CDATA[Jordan Redshaw]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jordanredshaw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 23:17:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 Nov 2015 23:21:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jordanredshaw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00a62cec-5136-48ea-8b1d-0c9661a08bfd.jpg">]]></description>
-            <link>undefineda0f01edb-9383-48e9-816b-8fdca0c2de03/index.html</link>
+            <title><![CDATA[Homepage]]></title>
+            <description><![CDATA[<article><h1>Homepage</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00a62cec-5136-48ea-8b1d-0c9661a08bfd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jordanredshaw/a0f01edb-9383-48e9-816b-8fdca0c2de03/index.html</link>
             <guid isPermaLink="false">a0f01edb-9383-48e9-816b-8fdca0c2de03</guid>
-            <pubDate>Sun, 22 Nov 2015 23:17:48 GMT</pubDate>
+            <pubDate>Sun, 22 Nov 2015 23:21:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
