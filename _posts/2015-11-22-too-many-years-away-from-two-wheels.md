@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: returning to mountain biking was a great decision
-datePublished: '2015-11-23T00:45:15.267Z'
-dateModified: '2015-11-23T00:45:11.822Z'
+datePublished: '2015-11-23T00:51:38.844Z'
+dateModified: '2015-11-23T00:51:32.076Z'
 author:
   - name: jordanredshaw
     url: 'https://www.instagram.com/jordanredshaw'
@@ -59,5 +59,5 @@ We've already begun the process of planning out a road trip for next summer and 
 
 Happy trails!
 
-[0]: www.instagram.com/skiercam
+[0]: https://instagram.com/skiercam/
 [1]: http://kickinghorseresort.com/
