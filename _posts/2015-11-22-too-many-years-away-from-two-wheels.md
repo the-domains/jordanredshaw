@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: returning to mountain biking was a great decision
-datePublished: '2015-11-23T00:04:42.155Z'
-dateModified: '2015-11-23T00:03:35.040Z'
+datePublished: '2015-11-23T00:11:24.010Z'
+dateModified: '2015-11-23T00:11:17.380Z'
 author:
   - name: jordanredshaw
     url: 'https://www.instagram.com/jordanredshaw'
@@ -37,9 +37,13 @@ _context: 'http://schema.org'
 
 ---
 # too many years away from two wheels
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7298be0-121f-4ea0-8a87-8dd0e0459b3f.jpg)
 
-Getting back into mountain biking is easily one of the best things I did this year. My brother (Cameron) and I both bought bikes this year and proceeded to spend countless hours riding, digging and laughing. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d82ce21-1968-46fc-8bb2-b45392154e41.jpg)
+> Getting back into mountain biking is easily one of the best things I did this year. 
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7298be0-121f-4ea0-8a87-8dd0e0459b3f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d82ce21-1968-46fc-8bb2-b45392154e41.jpg)
+
+My brother (Cameron) and I both bought bikes this year and proceeded to spend countless hours riding, digging and laughing.
 
 The highlight of the season was trying downhill riding for the first time at [Kicking Horse][0]. Cam and I made the roughly 12-hour trek from Fort McMurray to Golden, BC, with high hopes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30a2855f-6a94-4721-be09-a60a9abd451b.jpg)
