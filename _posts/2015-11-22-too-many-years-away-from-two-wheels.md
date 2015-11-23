@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: returning to mountain biking was a great decision
-datePublished: '2015-11-23T00:42:21.491Z'
-dateModified: '2015-11-23T00:42:18.247Z'
+datePublished: '2015-11-23T00:45:15.267Z'
+dateModified: '2015-11-23T00:45:11.822Z'
 author:
   - name: jordanredshaw
     url: 'https://www.instagram.com/jordanredshaw'
@@ -56,6 +56,8 @@ A word of advice: get the insurance. I crashed hard after hitting a shark fin on
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b31fe210-662e-4749-a45b-34d5436eb374.jpg)
 
 We've already begun the process of planning out a road trip for next summer and the next direction for the trail. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8176f63-45f8-4f2e-851d-95ef82fc8dfd.jpg)
+
+Happy trails!
 
 [0]: www.instagram.com/skiercam
 [1]: http://kickinghorseresort.com/
