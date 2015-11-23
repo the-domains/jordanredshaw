@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: returning to mountain biking was a great decision
-datePublished: '2015-11-23T00:16:55.876Z'
-dateModified: '2015-11-23T00:12:50.459Z'
+datePublished: '2015-11-23T00:42:21.491Z'
+dateModified: '2015-11-23T00:42:18.247Z'
 author:
   - name: jordanredshaw
     url: 'https://www.instagram.com/jordanredshaw'
@@ -42,10 +42,10 @@ _context: 'http://schema.org'
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7298be0-121f-4ea0-8a87-8dd0e0459b3f.jpg)
 
-My brother (Cameron) and I both bought bikes this year and proceeded to spend countless hours riding, digging and laughing.
+My brother ([Cameron][0]) and I both bought bikes this year and proceeded to spend countless hours riding, digging and laughing.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d82ce21-1968-46fc-8bb2-b45392154e41.jpg)
 
-The highlight of the season was trying downhill riding for the first time at [Kicking Horse][0]. Cam and I made the roughly 12-hour trek from Fort McMurray to Golden, BC, with high hopes.
+The highlight of the season was trying downhill riding for the first time at [Kicking Horse][1]. Cam and I made the roughly 12-hour trek from Fort McMurray to Golden, BC, with high hopes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30a2855f-6a94-4721-be09-a60a9abd451b.jpg)
 
 We rented bikes (make sure you book them beforehand) and signed up for a full-day lesson, which turned out to be private as we were the only too there who signed up in the intermediate/advanced category. Our instructor, Jordan, turned out to be a really awesome guy who guided us around the mountain and helped us improve our riding exponentially.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ffaaa3e-38d8-46ec-aecb-45554ca0bce5.jpg)
@@ -57,4 +57,5 @@ A word of advice: get the insurance. I crashed hard after hitting a shark fin on
 
 We've already begun the process of planning out a road trip for next summer and the next direction for the trail. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8176f63-45f8-4f2e-851d-95ef82fc8dfd.jpg)
 
-[0]: http://kickinghorseresort.com/
+[0]: www.instagram.com/skiercam
+[1]: http://kickinghorseresort.com/
