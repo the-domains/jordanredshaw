@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: returning to mountain biking was a great decision
-datePublished: '2015-11-23T01:08:35.911Z'
-dateModified: '2015-11-23T01:08:29.253Z'
+datePublished: '2015-11-23T01:11:52.980Z'
+dateModified: '2015-11-23T01:11:47.254Z'
 author:
   - name: jordanredshaw
     url: 'https://www.instagram.com/jordanredshaw'
@@ -45,7 +45,7 @@ _context: 'http://schema.org'
 My brother ([Cameron][0]) and I both bought bikes this year and proceeded to spend countless hours riding, digging and laughing.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d82ce21-1968-46fc-8bb2-b45392154e41.jpg)
 
-The highlight of the season was trying downhill riding for the first time at [Kicking Horse][1]. Cam and I made the roughly 12-hour trek from Fort McMurray to Golden, BC, with high hopes.
+The highlight of the season was trying downhill riding for the first time at [Kicking Horse][1]. Cam and I made the roughly-12-hour trek from Fort McMurray to Golden, BC, with high hopes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30a2855f-6a94-4721-be09-a60a9abd451b.jpg)
 
 We rented bikes (make sure you book them beforehand) and signed up for a full-day lesson, which turned out to be private as we were the only too there who signed up in the intermediate/advanced category. Our instructor, Jordan, turned out to be a really awesome guy who guided us around the mountain and helped us improve our riding exponentially.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ffaaa3e-38d8-46ec-aecb-45554ca0bce5.jpg)
