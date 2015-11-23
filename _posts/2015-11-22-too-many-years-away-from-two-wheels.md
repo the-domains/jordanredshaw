@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: returning to mountain biking was a great decision
-datePublished: '2015-11-23T00:54:24.359Z'
-dateModified: '2015-11-23T00:54:00.869Z'
+datePublished: '2015-11-23T00:56:56.084Z'
+dateModified: '2015-11-23T00:56:21.953Z'
 author:
   - name: jordanredshaw
     url: 'https://www.instagram.com/jordanredshaw'
@@ -22,7 +22,7 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-title: "too many years away from two\_"
+title: "too many years away from two\_wheels"
 sourcePath: _posts/2015-11-22-too-many-years-away-from-two-wheels.md
 published: true
 authors: []
@@ -36,9 +36,7 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-# too many years away from two 
-
-# wheels
+# too many years away from two wheels
 
 > Getting back into mountain biking is easily one of the best things I did this year. 
 
